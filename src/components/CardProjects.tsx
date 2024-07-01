@@ -17,27 +17,27 @@ const CardProjects: React.FC<CardProjectsProps> = ({ projects }) => {
           className="bg-[#1B1E22] shadow-md rounded p-4 mb-4"
         >
           <div>
-            <img src={project.image} alt="" />
+            <img src={project.image} className="h-32" alt="" />
           </div>
-          <h2 className="text-xl font-bold">{project.nombre}</h2>
-          <p>{project.description}</p>
+          <h2 className="text-xl font-bold text-center">{project.nombre}</h2>
+          <p className="my-5 text-center">{project.description}</p>
           <div className="mt-2 flex justify-around">
             {project.tecnhologies.map((tech, index) => (
               <span
                 key={index}
-                className="inline-block bg-gray-200 text-gray-700 rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-2"
+                className="inline-block bg-gray-200 text-gray-700 rounded-full px-3 py-1 text-sm font-semibold mb-2"
               >
                 {tech}
               </span>
             ))}
           </div>
           <div className="flex justify-around py-2">
-            <a href={project.github}>
+            <a href={project.github} target="_blank">
               <button className="bg-slate-950 hover:bg-slate-900 py-1 px-5 rounded-md">
                 Codigo
               </button>
             </a>
-            <a href={project.test}>
+            <a href={project.test} target="_blank">
               <button className="bg-slate-950 hover:bg-slate-900 py-1 px-5 rounded-md">
                 Prueba
               </button>

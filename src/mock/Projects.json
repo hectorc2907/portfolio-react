@@ -3,36 +3,9 @@
     "id": "1",
     "nombre": "PortFolio React",
     "description": "Portafolios realizado con las tecnologias principales",
-    "image": "https://s1.significados.com/foto/ejemplo-og.jpg",
+    "image": "https://github.com/hectorc2907/portfolio-react/blob/functionality/public/img/projects/portfolio-react.png?raw=true",
     "tecnhologies": ["React", "TypeScript"],
-    "github":"https://github.com/hectorc2907/portfolio-react",
-    "test":"https://portfolio-react-hac.netlify.app"
-  },
-  {
-    "id": "2",
-    "nombre": "ejemplo2",
-    "description": "ejemplo",
-    "image": "https://s1.significados.com/foto/ejemplo-og.jpg",
-    "tecnhologies": ["react", "javascript", "node"],
-    "github":"",
-    "test":""
-  },
-  {
-    "id": "3",
-    "nombre": "ejemplo3",
-    "description": "ejemplo",
-    "image": "https://s1.significados.com/foto/ejemplo-og.jpg",
-    "tecnhologies": ["react", "javascript", "node"],
-    "github":"",
-    "test":""
-  },
-  {
-    "id": "4",
-    "nombre": "ejemplo4",
-    "description": "ejemplo",
-    "image": "https://s1.significados.com/foto/ejemplo-og.jpg",
-    "tecnhologies": ["react", "javascript", "node"],
-    "github":"",
-    "test":""
+    "github": "https://github.com/hectorc2907/portfolio-react",
+    "test": "https://portfolio-react-hac.netlify.app"
   }
 ]
