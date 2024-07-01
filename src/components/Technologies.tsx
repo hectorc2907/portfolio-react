@@ -1,6 +1,6 @@
 export const Technologies = () => {
   return (
-    <section id="technologies" className="text-white flex justify-center pb-16">
+    <section id="technologies" className="text-white flex justify-center pb-16" data-aos="fade-up" data-aos-delay="100">
       <div className="w-[1200px]">
         <div className="mx-5">
           <div className="text-center mb-5">
