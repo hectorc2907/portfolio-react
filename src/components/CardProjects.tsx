@@ -21,7 +21,7 @@ const CardProjects: React.FC<CardProjectsProps> = ({ projects }) => {
           </div>
           <h2 className="text-xl font-bold">{project.nombre}</h2>
           <p>{project.description}</p>
-          <div className="mt-2">
+          <div className="mt-2 flex justify-around">
             {project.tecnhologies.map((tech, index) => (
               <span
                 key={index}
