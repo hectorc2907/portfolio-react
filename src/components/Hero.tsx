@@ -82,7 +82,7 @@ export const Hero = () => {
             <div className="border-8 border-black m-5 w-[369px] min-w-[369px]">
               <img
                 className="rounded-md"
-                src="../img/perfil1corta.jpg"
+                src="https://github.com/hectorc2907/portfolio-react/blob/main/src/img/perfil1corta.jpg?raw=true"
                 alt=""
               />
             </div>
@@ -99,7 +99,7 @@ export const Hero = () => {
             <div className="border-8 border-black my-5 max-w-[369px]">
               <img
                 className="rounded-md"
-                src="../img/perfil1corta.jpg"
+                src="https://github.com/hectorc2907/portfolio-react/blob/main/src/img/perfil1corta.jpg?raw=true"
                 alt=""
               />
             </div>

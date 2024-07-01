@@ -21,7 +21,7 @@ export const Contact = () => {
             >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../img/icon/whatsapp.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/4bac044ddff184e2c56b653d6ec1e8f74d58c5e5/src/img/icon/whatsapp.svg"
                   className="w-10"
                   alt=""
                 />
@@ -35,7 +35,7 @@ export const Contact = () => {
             >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../img/icon/facebook.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/4bac044ddff184e2c56b653d6ec1e8f74d58c5e5/src/img/icon/facebook.svg"
                   className="w-10"
                   alt=""
                 />
@@ -49,17 +49,21 @@ export const Contact = () => {
             >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../img/icon/telegram.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/4bac044ddff184e2c56b653d6ec1e8f74d58c5e5/src/img/icon/telegram.svg"
                   className="w-10"
                   alt=""
                 />
                 <h3 className="px-5">Telegram</h3>
               </div>
             </a>
-            <a href="https://www.linkedin.com/in/hector-clessi/" target="_blank" className="bg-[#FFFFFF] rounded-md">
+            <a
+              href="https://www.linkedin.com/in/hector-clessi/"
+              target="_blank"
+              className="bg-[#FFFFFF] rounded-md"
+            >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../img/icon/linkedIn.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/4bac044ddff184e2c56b653d6ec1e8f74d58c5e5/src/img/icon/linkedin.svg"
                   className="w-10"
                   alt=""
                 />
