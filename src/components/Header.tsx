@@ -7,7 +7,7 @@ export const Header = () => {
     setMenuOpen(!menuOpen);
   };
   return (
-    <header className="text-white justify-center flex">
+    <header className="text-white justify-center flex" data-aos="fade-up" data-aos-delay="100">
       <div className="hidden md:block py-5 w-[1000px]">
         <div className="flex justify-around items-center">
           <div>

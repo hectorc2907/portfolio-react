@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "nombre": "ejemplo1",
-    "description": "ejemplo",
+    "nombre": "PortFolio React",
+    "description": "Portafolios realizado con las tecnologias principales",
     "image": "https://s1.significados.com/foto/ejemplo-og.jpg",
-    "tecnhologies": ["react", "javascript", "node"],
-    "github":"",
-    "test":""
+    "tecnhologies": ["React", "TypeScript"],
+    "github":"https://github.com/hectorc2907/portfolio-react",
+    "test":"https://portfolio-react-hac.netlify.app"
   },
   {
     "id": "2",

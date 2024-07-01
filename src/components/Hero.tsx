@@ -8,7 +8,7 @@ import {
 
 export const Hero = () => {
   return (
-    <section id="aboutMe" className="text-white flex justify-center">
+    <section id="aboutMe" className="text-white flex justify-center" data-aos="fade-up" data-aos-delay="100">
       <div className="w-[1200px]">
         <div className="hidden lg:block">
           <div className="flex items-center justify-between">

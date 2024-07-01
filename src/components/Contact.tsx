@@ -1,6 +1,6 @@
 export const Contact = () => {
   return (
-    <section id="contact" className="text-white flex justify-center pb-10">
+    <section id="contact" className="text-white flex justify-center pb-10" data-aos="fade-up" data-aos-delay="100">
       <div className="w-[1200px]">
         <div className="mx-5">
           <div className="text-center mb-5">
