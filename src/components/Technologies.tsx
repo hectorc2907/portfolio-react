@@ -14,17 +14,17 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/html5.svg"
+                  src="../img/icon/html5.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/css.svg"
+                  src="../img/icon/css.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/bootstrap.svg"
+                  src="../img/icon/bootstrap.svg"
                   alt=""
                 />
               </div>
@@ -34,12 +34,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/javascript.svg"
+                  src="../img/icon/javascript.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/typescript.svg"
+                  src="../img/icon/typescript.svg"
                   alt=""
                 />
               </div>
@@ -49,7 +49,7 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/react.svg"
+                  src="../img/icon/react.svg"
                   alt=""
                 />
               </div>
@@ -59,12 +59,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/nodejs.svg"
+                  src="../img/icon/nodejs.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/Express.js_dark.svg"
+                  src="../img/icon/Express.js_dark.svg"
                   alt=""
                 />
               </div>
@@ -74,12 +74,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-5 mx-5 py-3"
-                  src="../../public/img/icon/mongodb.svg"
+                  src="../img/icon/mongodb.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/mysql.svg"
+                  src="../img/icon/mysql.svg"
                   alt=""
                 />
               </div>
@@ -89,12 +89,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/git.svg"
+                  src="../img/icon/git.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../../public/img/icon/trello.png"
+                  src="../img/icon/trello.png"
                   alt=""
                 />
               </div>

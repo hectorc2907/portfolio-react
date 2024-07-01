@@ -21,7 +21,7 @@ export const Contact = () => {
             >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../../public/img/icon/whatsapp.svg"
+                  src="../img/icon/whatsapp.svg"
                   className="w-10"
                   alt=""
                 />
@@ -35,7 +35,7 @@ export const Contact = () => {
             >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../../public/img/icon/facebook.svg"
+                  src="../img/icon/facebook.svg"
                   className="w-10"
                   alt=""
                 />
@@ -49,7 +49,7 @@ export const Contact = () => {
             >
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../../public/img/icon/telegram.svg"
+                  src="../img/icon/telegram.svg"
                   className="w-10"
                   alt=""
                 />
@@ -59,7 +59,7 @@ export const Contact = () => {
             <a href="https://www.linkedin.com/in/hector-clessi/" target="_blank" className="bg-[#FFFFFF] rounded-md">
               <div className="flex justify-center items-center p-5">
                 <img
-                  src="../../public/img/icon/linkedIn.svg"
+                  src="../img/icon/linkedIn.svg"
                   className="w-10"
                   alt=""
                 />

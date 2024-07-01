@@ -17,7 +17,7 @@ export const Header = () => {
           <div>
             <a href="/" className="text-2xl flex items-center">
               <img
-                src="../../public/img/logoChico.png"
+                src="../img/logoChico.png"
                 className="w-9"
                 alt=""
               />
@@ -46,7 +46,7 @@ export const Header = () => {
           <div className="flex justify-between items-center">
             <a href="/" className="text-2xl">
               <img
-                src="../../public/img/logoChico.png"
+                src="../img/logoChico.png"
                 className="w-9"
                 alt=""
               />
