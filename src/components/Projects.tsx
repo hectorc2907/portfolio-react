@@ -8,7 +8,7 @@ const projects: APIResult[] = Dates;
 
 export const Projects: React.FC = () => {
   return (
-    <section id="projects" className="text-white flex justify-center my-14">
+    <section id="projects" className="text-white flex justify-center mt-14">
       <div className="w-[1200px]">
         <div className="mx-5">
           <div className="text-center">
