@@ -1,9 +1,10 @@
 import "./App.css";
+import { Header } from "./components/Header";
 
 export const App = () => {
   return (
     <>
-      <h1>Pagina Principal</h1>
+      <Header />
     </>
   );
-}
+};
