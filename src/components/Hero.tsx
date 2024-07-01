@@ -8,7 +8,12 @@ import {
 
 export const Hero = () => {
   return (
-    <section id="aboutMe" className="text-white flex justify-center" data-aos="fade-up" data-aos-delay="100">
+    <section
+      id="aboutMe"
+      className="text-white flex justify-center"
+      data-aos="fade-up"
+      data-aos-delay="100"
+    >
       <div className="w-[1200px]">
         <div className="hidden lg:block">
           <div className="flex items-center justify-between">
@@ -36,31 +41,36 @@ export const Hero = () => {
                 <div>
                   <div className="grid grid-cols-5 gap-4">
                     <a
-                      href="/"
+                      href="https://www.linkedin.com/in/hector-clessi/"
+                      target="_blank"
                       className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                     >
                       <FaLinkedin className="text-3xl" />
                     </a>
                     <a
-                      href="/"
+                      href="https://www.facebook.com/hectoralberto.clessi/"
+                      target="_blank"
                       className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                     >
                       <FaFacebook className="text-3xl" />
                     </a>
                     <a
-                      href="/"
+                      href="https://www.instagram.com/hectorc2907/"
+                      target="_blank"
                       className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                     >
                       <FaInstagram className="text-3xl" />
                     </a>
                     <a
-                      href="/"
+                      href="https://x.com/HClessi"
+                      target="_blank"
                       className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                     >
                       <FaTwitter className="text-3xl" />
                     </a>
                     <a
-                      href="/"
+                      href="https://wa.me/5493812033116"
+                      target="_blank"
                       className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                     >
                       <FaWhatsapp className="text-3xl" />
@@ -110,31 +120,36 @@ export const Hero = () => {
             <div>
               <div className="grid grid-cols-5 gap-4">
                 <a
-                  href="/"
+                  href="https://www.linkedin.com/in/hector-clessi/"
+                  target="_blank"
                   className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                 >
                   <FaLinkedin className="text-3xl" />
                 </a>
                 <a
-                  href="/"
+                  href="https://www.facebook.com/hectoralberto.clessi/"
+                  target="_blank"
                   className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                 >
                   <FaFacebook className="text-3xl" />
                 </a>
                 <a
-                  href="/"
+                  href="https://www.instagram.com/hectorc2907/"
+                  target="_blank"
                   className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                 >
                   <FaInstagram className="text-3xl" />
                 </a>
                 <a
-                  href="/"
+                  href="https://x.com/HClessi"
+                  target="_blank"
                   className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                 >
                   <FaTwitter className="text-3xl" />
                 </a>
                 <a
-                  href="/"
+                  href="https://wa.me/5493812033116"
+                  target="_blank"
                   className="bg-slate-950 rounded-md p-3 flex items-center justify-center hover:bg-slate-800 hover:cursor-pointer"
                 >
                   <FaWhatsapp className="text-3xl" />

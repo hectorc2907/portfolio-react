@@ -7,7 +7,11 @@ export const Header = () => {
     setMenuOpen(!menuOpen);
   };
   return (
-    <header className="text-white justify-center flex" data-aos="fade-up" data-aos-delay="100">
+    <header
+      className="text-white justify-center flex"
+      data-aos="fade-up"
+      data-aos-delay="100"
+    >
       <div className="hidden md:block py-5 w-[1000px]">
         <div className="flex justify-around items-center">
           <div>
@@ -20,15 +24,20 @@ export const Header = () => {
             </a>
           </div>
           <div className="grid grid-cols-4 gap-4">
-            <a href="/">Sobre Mí</a>
-            <a href="/">Proyectos</a>
-            <a href="/">Tecnologias</a>
-            <a href="/">Contacto</a>
+            <a href="#aboutMe">Sobre Mí</a>
+            <a href="#projects">Proyectos</a>
+            <a href="#technologies">Tecnologias</a>
+            <a href="#contact">Contacto</a>
           </div>
           <div>
-            <button className="bg-red-900 rounded-md py-2 px-3">
-              Curriculum
-            </button>
+            <a
+              href="https://drive.google.com/uc?export=download&id=1EC3PN7bCNTdD4fA7vJBAAMp9SQXlD-O_"
+              download="tu_curriculum.pdf"
+            >
+              <button className="bg-red-900 hover:bg-red-700 rounded-md py-2 px-3">
+                Curriculum
+              </button>
+            </a>
           </div>
         </div>
       </div>
@@ -51,19 +60,23 @@ export const Header = () => {
               menuOpen ? "" : "hidden"
             } grid grid-cols-1 gap-4 text-center`}
           >
-            <a href="/" className="py-2">
+            <a href="#aboutMe" className="py-2">
               Sobre Mí
             </a>
-            <a href="/" className="py-2">
+            <a href="#projects" className="py-2">
               Proyectos
             </a>
-            <a href="/" className="py-2">
+            <a href="#technologies" className="py-2">
               Tecnologias
             </a>
-            <a href="/" className="py-2">
+            <a href="#contact" className="py-2">
               Contacto
             </a>
-            <a href="/" className="py-2">
+            <a
+              href="https://drive.google.com/uc?export=download&id=1EC3PN7bCNTdD4fA7vJBAAMp9SQXlD-O_"
+              download="tu_curriculum.pdf"
+              className="py-2"
+            >
               Curriculum
             </a>
           </div>
