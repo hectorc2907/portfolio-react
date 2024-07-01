@@ -11,8 +11,12 @@ export const Header = () => {
       <div className="hidden md:block py-5 w-[1000px]">
         <div className="flex justify-around items-center">
           <div>
-            <a href="/" className="text-2xl">
-              Hector
+            <a href="/" className="text-2xl flex items-center">
+              <img
+                src="../../public/img/logoChico.png"
+                className="w-9"
+                alt=""
+              />
             </a>
           </div>
           <div className="grid grid-cols-4 gap-4">
@@ -32,7 +36,11 @@ export const Header = () => {
         <div className="">
           <div className="flex justify-between items-center">
             <a href="/" className="text-2xl">
-              Hector
+              <img
+                src="../../public/img/logoChico.png"
+                className="w-9"
+                alt=""
+              />
             </a>
             <button onClick={handleMenu} className="text-4xl">
               {menuOpen ? <HiX /> : <HiOutlineMenu />}
