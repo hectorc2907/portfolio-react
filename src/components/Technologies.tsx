@@ -1,6 +1,11 @@
 export const Technologies = () => {
   return (
-    <section id="technologies" className="text-white flex justify-center pb-16" data-aos="fade-up" data-aos-delay="100">
+    <section
+      id="technologies"
+      className="text-white flex justify-center pb-16"
+      data-aos="fade-up"
+      data-aos-delay="100"
+    >
       <div className="w-[1200px]">
         <div className="mx-5">
           <div className="text-center mb-5">
@@ -14,17 +19,17 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/html5.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/html5.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/css.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/css.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/bootstrap.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/bootstrap.svg"
                   alt=""
                 />
               </div>
@@ -34,12 +39,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/javascript.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/javascript.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/typescript.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/typescript.svg"
                   alt=""
                 />
               </div>
@@ -49,7 +54,7 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/react.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/react.svg"
                   alt=""
                 />
               </div>
@@ -59,12 +64,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/nodejs.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/nodejs.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/Express.js_dark.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/Express.js_dark.svg"
                   alt=""
                 />
               </div>
@@ -74,12 +79,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-5 mx-5 py-3"
-                  src="../img/icon/mongodb.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/mongodb.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/mysql.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/mysql.svg"
                   alt=""
                 />
               </div>
@@ -89,12 +94,12 @@ export const Technologies = () => {
               <div className="flex justify-center">
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/git.svg"
+                  src="https://raw.githubusercontent.com/hectorc2907/portfolio-react/e03cbd08e40935cfc384a0005dca88afa13a34e7/src/img/icon/git.svg"
                   alt=""
                 />
                 <img
                   className="w-10 mx-5 py-3"
-                  src="../img/icon/trello.png"
+                  src="https://github.com/hectorc2907/portfolio-react/blob/main/src/img/icon/trello.png?raw=true"
                   alt=""
                 />
               </div>
